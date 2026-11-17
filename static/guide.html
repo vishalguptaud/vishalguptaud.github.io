@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Editing guide | Vishal Gupta</title>
+  <link rel="stylesheet" href="assets/site.css">
+  <link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+  <header class="site-header"><div class="wrap header-inner"><a class="brand" href="index.html">Vishal Gupta</a><nav aria-label="Editing navigation"><a href="edit/">Content editor</a></nav></div></header>
+  <main class="wrap">
+    <header class="page-heading"><h1>Editing guide</h1></header>
+    <div class="reading-width">
+      <section><h2>Update a page</h2>
+        <ol>
+          <li>Open the <a href="edit/">content editor</a> and select the section to update.</li>
+          <li>Edit or add an entry, then select <strong>Download updated file</strong>.</li>
+          <li>In the repository, replace the matching file under <code>content/</code> and commit it to <code>main</code>. For publications, that file is <code>content/publications.json</code>.</li>
+          <li>Check that the publishing workflow succeeded, then review the live page.</li>
+        </ol>
+        <p>The editor does not publish changes or save them between visits. Download each changed section before closing the tab. Start from a fresh load when editing the live site's latest content.</p>
+      </section>
+      <section class="ruled"><h2>Update the CV or photos</h2>
+        <p>To keep the CV link unchanged, upload a new version of the same PDF in Google Drive. If the link changes, edit it under Profile and appearance.</p>
+        <p>For photos, upload a prepared public copy to <code>static/assets/uploads/</code> and use <code>assets/uploads/filename.jpg</code> in the album entry. Add a caption and an accessible description. Keep private originals outside the repository.</p>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

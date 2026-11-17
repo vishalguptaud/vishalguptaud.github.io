@@ -1,0 +1,52 @@
+{
+  "intro": "My research interests are broadly in combinatorics and graph theory, particularly spectral and extremal graph theory. I also work on Fourier analysis and its connections to combinatorics and data science.",
+  "biography": "At Rochester, I work with Alex Iosevich. I received my PhD in Mathematics from the University of Delaware in 2025 under the guidance of Sebastian Cioabă, and an MS in Data Science in 2023.",
+  "advisor_links": [
+    {
+      "label": "Alex Iosevich",
+      "url": "https://alexiosevich.com"
+    },
+    {
+      "label": "Sebastian Cioabă",
+      "url": "https://sites.udel.edu/cioaba/"
+    }
+  ],
+  "research_title": "Graphs, eigenvalues, and Fourier analysis",
+  "research_intro": "What can the spectrum of a graph tell us about its structure? What changes when we regard the edge set as a function and study its Fourier transform?",
+  "education": [
+    {
+      "degree": "PhD in Mathematics",
+      "institution": "University of Delaware",
+      "dates": "2021–2025",
+      "details": "Advisor: Sebastian Cioabă"
+    },
+    {
+      "degree": "MS in Data Science",
+      "institution": "University of Delaware",
+      "dates": "2022–2023",
+      "details": ""
+    },
+    {
+      "degree": "BS–MS dual degree",
+      "institution": "IISER Bhopal",
+      "dates": "2015–2020",
+      "details": "Advisor: Kashyap Rajeevsarathy"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Hitmakers vs. One-Hit Wonders",
+      "label": "Erdős Institute · Spring 2026",
+      "text": "A team project on predicting repeat chart success, awarded first place in the Data Science Project Competition.",
+      "page": "data-science.html",
+      "link_label": "Project and code"
+    },
+    {
+      "title": "Research with students",
+      "label": "StemForAll · 2026–2027",
+      "text": "Continuing projects in Fourier Ratio and Graph Recovery and Sales Modeling.",
+      "page": "mentoring.html",
+      "link_label": "Groups and projects"
+    }
+  ]
+}

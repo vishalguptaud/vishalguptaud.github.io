@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "title": "Additive energy and Fourier complexity of graphs",
+      "coauthors": "S. Ferguson, A. Iosevich, J. Iosevich, B. Song, and H. Tian",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2610.31807",
+      "topic": "fourier",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Edge complexity of complete bipartite and complete multipartite graphs",
+      "coauthors": "S. Ferguson, A. Iosevich, J. Iosevich, C. Kelly, G. Smith, and S. Yang",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2610.36276",
+      "topic": "fourier",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Edge complexity of weighted graphs: involutory symmetries and NP-hardness",
+      "coauthors": "A. Iosevich",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2609.23842",
+      "topic": "fourier",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Edge complexity of graphs",
+      "coauthors": "A. Iosevich, J. Iosevich, B. Song, and H. Tian",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2607.15598",
+      "topic": "fourier",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Fourier ratios of graph kernels: energy bounds, optimal labelings, and recovery",
+      "coauthors": "A. Iosevich",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2606.15475",
+      "topic": "fourier",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Large values in time series and additive combinatorics",
+      "coauthors": "A. Iosevich",
+      "year": 2026,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2604.21292",
+      "topic": "related",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "The non-existence of some Moore polygons and spectral Moore bounds",
+      "coauthors": "S. Cioabă, H. Nozaki, and Z. Xiang",
+      "year": 2025,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2512.09680",
+      "topic": "spectral-moore",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Minimum spectral radius of graphs of fixed order and dissociation number and its connection to Turán problems",
+      "coauthors": "D. N. Desai",
+      "year": 2025,
+      "status": "Submitted",
+      "url": "https://arxiv.org/abs/2510.26169",
+      "topic": "brualdi-solheid",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Problems in spectral and extremal graph theory",
+      "coauthors": "",
+      "year": 2025,
+      "status": "PhD thesis · University of Delaware",
+      "url": "https://www.proquest.com/docview/3236076785/4E8590B5CF1C4622PQ/1?accountid=10457",
+      "topic": "thesis",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "A Ricci flow on graphs from effective resistance",
+      "coauthors": "A. Dawkins, M. Kempton, W. Linz, J. Quail, H. Richman, and Z. Stier",
+      "year": 2025,
+      "status": "Journal of Combinatorics (2025)",
+      "url": "https://arxiv.org/abs/2403.01151",
+      "topic": "ricci",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "Node resistance curvature in Cartesian graph products",
+      "coauthors": "A. Dawkins, M. Kempton, W. Linz, J. Quail, H. Richman, and Z. Stier",
+      "year": 2025,
+      "status": "Journal of Combinatorics (2025)",
+      "url": "https://arxiv.org/abs/2403.01037",
+      "topic": "ricci",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "On the minimum spectral radius of connected graphs of given order and size",
+      "coauthors": "S. Cioabă and C. Marques",
+      "year": 2024,
+      "status": "Special Matrices (2024)",
+      "url": "https://arxiv.org/abs/2405.15046",
+      "topic": "brualdi-solheid",
+      "abstract": "",
+      "code_url": ""
+    },
+    {
+      "title": "A lower bound for the smallest eigenvalue of a graph and an application to the associahedron graph",
+      "coauthors": "S. Cioabă",
+      "year": 2022,
+      "status": "Bulletin of the Romanian Mathematical Society (2022)",
+      "url": "https://arxiv.org/abs/2210.08516",
+      "topic": "associahedron",
+      "abstract": "",
+      "code_url": ""
+    }
+  ],
+  "in_preparation": [
+    {
+      "title": "Spectral Turán problems for join of complete multipartite graphs",
+      "coauthors": "Dheer Noal Desai"
+    },
+    {
+      "title": "The spectral gap of Signed Reversal and Burnt Pancake graphs",
+      "coauthors": "Himanshu Gupta"
+    }
+  ]
+}

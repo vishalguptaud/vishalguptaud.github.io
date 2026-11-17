@@ -1,0 +1,154 @@
+{
+  "intro": "My research is in graph theory and combinatorics, with an emphasis on spectral and extremal questions. I also work on Fourier analysis and its connections to graph theory and additive combinatorics.",
+  "projects": [
+    {
+      "id": "brualdi-solheid",
+      "title": "Brualdi–Solheid problem",
+      "paragraphs": [
+        "The Brualdi–Solheid problem asks which graphs have the largest or smallest spectral radius within a given class. My work has focused on minimization, with either the order and size or the order and dissociation number fixed.",
+        "The fixed-order-and-size problem is related to a question of Hong on whether a minimizer must be almost regular. The dissociation-number problem connects spectral minimization with Turán-type problems for complete multipartite graphs."
+      ],
+      "highlight": "",
+      "highlight_credit": "",
+      "links": [
+        {
+          "label": "Minimum spectral radius for fixed order and size",
+          "url": "https://arxiv.org/abs/2405.15046"
+        },
+        {
+          "label": "Spectral minimization and dissociation number",
+          "url": "https://arxiv.org/abs/2510.26169"
+        }
+      ],
+      "figures": [
+        {
+          "image": "assets/spectral-comparison.svg",
+          "alt": "Comparison of spectral radii for two connected graphs with the same order and size"
+        }
+      ],
+      "caption": "Both graphs have six vertices and six edges. The cycle has spectral radius 2; a triangle with one leaf at each vertex has spectral radius 1 + √2."
+    },
+    {
+      "id": "associahedron",
+      "title": "Associahedron",
+      "paragraphs": [
+        "The associahedron graph has a vertex for each triangulation of a convex polygon. Two triangulations are adjacent when a single diagonal flip changes one into the other.",
+        "With Sebastian Cioabă, I obtained a lower bound for its smallest adjacency eigenvalue with the correct order of magnitude. The proof uses a more general eigenvalue bound for regular graphs containing many copies of a fixed subgraph."
+      ],
+      "highlight": "",
+      "highlight_credit": "",
+      "links": [
+        {
+          "label": "Smallest eigenvalues and the associahedron graph",
+          "url": "https://arxiv.org/abs/2210.08516"
+        }
+      ],
+      "figures": [
+        {
+          "image": "assets/associahedron-flip.svg",
+          "alt": "Two triangulations of a hexagon that differ by one diagonal flip, with the changed diagonals highlighted in clay"
+        }
+      ],
+      "caption": "A diagonal flip gives an edge of the associahedron graph. The changed diagonals are shown in clay."
+    },
+    {
+      "id": "spectral-moore",
+      "title": "Spectral Moore bounds",
+      "paragraphs": [
+        "How many vertices can a connected regular graph have if its degree is fixed and its second largest adjacency eigenvalue is bounded above? This is the spectral Moore problem.",
+        "With Sebastian Cioabă, Hiroshi Nozaki, and Ziqing Xiang, I studied bounds and equality cases for small degrees and eigenvalue thresholds, as well as the non-existence of certain Moore polygons."
+      ],
+      "highlight": "One result is a gap in the possible second largest eigenvalues of connected 5-regular graphs: if λ₂ > 1, then λ₂ ≥ √5 − 1. Up to isomorphism, the Cayley graph shown here is the only graph attaining equality.",
+      "highlight_credit": "Cioabă, Gupta, Nozaki, and Xiang · Proposition 4.3",
+      "links": [
+        {
+          "label": "Moore polygons and spectral Moore bounds",
+          "url": "https://arxiv.org/abs/2512.09680"
+        },
+        {
+          "label": "Computational code",
+          "url": "https://github.com/vishalguptaud/Spectral-Moore-Problem/tree/main"
+        }
+      ],
+      "figures": [
+        {
+          "image": "assets/cayley-z10.svg",
+          "alt": "The Cayley graph of Z ten with generators plus or minus one, plus or minus two, and five: ten vertices, twenty five edges, degree five, and second largest adjacency eigenvalue square root of five minus one"
+        }
+      ],
+      "caption": "Cay(ℤ₁₀, {±1, ±2, 5}). Each vertex i is joined to i ± 1, i ± 2, and i + 5 modulo 10. The five edges corresponding to the generator 5 are highlighted in clay."
+    },
+    {
+      "id": "fourier",
+      "title": "Fourier analysis of graphs",
+      "paragraphs": [
+        "After labeling the vertices of a graph by ℤ_N, its adjacency matrix can be viewed as a function on ℤ_N². The Fourier transform depends on the labeling, even though the underlying graph does not change.",
+        "Our work studies the Fourier ratio—the ratio of the ℓ¹ and ℓ² norms of this transform—and its minimum over all vertex labelings, which we call the edge complexity of the graph. The questions include its relation to graph energy and additive structure, the labelings that attain equality in energy bounds, and approximation from incomplete observations."
+      ],
+      "highlight": "",
+      "highlight_credit": "",
+      "links": [
+        {
+          "label": "Fourier ratios of graph kernels",
+          "url": "https://arxiv.org/abs/2606.15475"
+        },
+        {
+          "label": "Edge complexity of graphs",
+          "url": "https://arxiv.org/abs/2607.15598"
+        },
+        {
+          "label": "Weighted graphs and NP-hardness",
+          "url": "https://arxiv.org/abs/2609.23842"
+        },
+        {
+          "label": "Additive energy and Fourier complexity",
+          "url": "https://arxiv.org/abs/2610.31807"
+        },
+        {
+          "label": "Complete bipartite and multipartite graphs",
+          "url": "https://arxiv.org/abs/2610.36276"
+        }
+      ],
+      "figures": [
+        {
+          "image": "assets/fourier-alternating.svg",
+          "alt": "Alternating labeling of K four four, with its Fourier transform and Fourier ratio 1.414"
+        },
+        {
+          "image": "assets/fourier-consecutive.svg",
+          "alt": "Consecutive labeling of K four four, with its Fourier transform and Fourier ratio 3.121"
+        }
+      ],
+      "caption": "Two labelings of K₄,₄ give Fourier ratios approximately 1.414 and 3.121. The images show the magnitudes of the Fourier transforms, on the same color scale. These are direct calculations for the displayed labelings, not a claim that both labelings are optimal."
+    },
+    {
+      "id": "ricci",
+      "title": "Ricci curvature",
+      "paragraphs": [
+        "Effective resistance comes from viewing a graph as an electrical network. It also gives a way to define curvature on a graph.",
+        "With collaborators, I introduced Ricci–Foster curvature on edges and studied the resulting Ricci flow. We proved short-time existence and preservation of nonnegative and positive curvature. In a separate paper, we studied node resistance curvature under Cartesian graph products, including its signs at interior and boundary vertices of grid graphs."
+      ],
+      "highlight": "",
+      "highlight_credit": "",
+      "links": [
+        {
+          "label": "A Ricci flow on graphs from effective resistance",
+          "url": "https://arxiv.org/abs/2403.01151"
+        },
+        {
+          "label": "Node resistance curvature in Cartesian graph products",
+          "url": "https://arxiv.org/abs/2403.01037"
+        }
+      ],
+      "figures": [],
+      "caption": ""
+    }
+  ],
+  "related_text": "I have also worked on the connection between large values in time series and additive combinatorics.",
+  "related_links": [
+    {
+      "label": "Large values in time series and additive combinatorics",
+      "url": "https://arxiv.org/abs/2604.21292"
+    }
+  ]
+}

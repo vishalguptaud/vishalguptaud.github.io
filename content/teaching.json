@@ -1,0 +1,186 @@
+{
+  "intro": "I have taught calculus, discrete mathematics, and graph theory at the University of Rochester and the University of Delaware. I have also led preparation sessions for the graduate qualifying examination in linear algebra.",
+  "office_hours_title": "Fall 2026",
+  "office_hours": "Tuesdays, 3–5 p.m., Hylan 806. Please email me to arrange an appointment outside these hours.",
+  "courses": [
+    {
+      "code": "Math 248",
+      "title": "Graph Theory",
+      "term": "Spring 2027",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Scheduled",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 150",
+      "title": "Discrete Mathematics",
+      "term": "Spring 2027",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Scheduled",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 142",
+      "title": "Calculus II",
+      "term": "Fall 2026",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Current",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 150",
+      "title": "Discrete Mathematics",
+      "term": "Fall 2026",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Current",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 248",
+      "title": "Graph Theory",
+      "term": "Spring 2026",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 150",
+      "title": "Discrete Mathematics",
+      "term": "Spring 2026",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 162",
+      "title": "Calculus II (accelerated)",
+      "term": "Fall 2025",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 150",
+      "title": "Discrete Mathematics",
+      "term": "Fall 2025",
+      "institution": "University of Rochester",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 221",
+      "title": "Calculus I",
+      "term": "Spring 2025",
+      "institution": "University of Delaware",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 231",
+      "title": "Integrated Calculus I",
+      "term": "Fall 2024",
+      "institution": "University of Delaware",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 221",
+      "title": "Calculus I",
+      "term": "Summer 2024",
+      "institution": "University of Delaware",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 210",
+      "title": "Discrete Mathematics",
+      "term": "Winter 2024",
+      "institution": "University of Delaware",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 221",
+      "title": "Calculus I",
+      "term": "Winter 2023",
+      "institution": "University of Delaware",
+      "role": "Instructor",
+      "status": "Past",
+      "details": "",
+      "url": ""
+    },
+    {
+      "code": "Math 241",
+      "title": "Analytic Geometry and Calculus A",
+      "term": "Fall 2022",
+      "institution": "University of Delaware",
+      "role": "Teaching Assistant",
+      "status": "Past",
+      "details": "2 sections",
+      "url": ""
+    },
+    {
+      "code": "Math 241",
+      "title": "Analytic Geometry and Calculus A",
+      "term": "Spring 2022",
+      "institution": "University of Delaware",
+      "role": "Teaching Assistant",
+      "status": "Past",
+      "details": "2 sections",
+      "url": ""
+    },
+    {
+      "code": "Math 242",
+      "title": "Analytic Geometry and Calculus B",
+      "term": "Fall 2021",
+      "institution": "University of Delaware",
+      "role": "Teaching Assistant",
+      "status": "Past",
+      "details": "2 sections, Discussion and Lab",
+      "url": ""
+    },
+    {
+      "code": "Math 242",
+      "title": "Analytic Geometry and Calculus B",
+      "term": "Spring 2021",
+      "institution": "University of Delaware",
+      "role": "Teaching Assistant",
+      "status": "Past",
+      "details": "Discussion and Lab",
+      "url": ""
+    }
+  ],
+  "other_teaching": [
+    {
+      "title": "Linear Algebra PhD Qualifying Examination",
+      "institution": "University of Delaware",
+      "term": "Summer 2023",
+      "details": "Led preparation sessions"
+    }
+  ],
+  "evaluations_url": "https://drive.google.com/file/d/1Ks4L2uCYdEBX0cOE-aqVHrdAj42zb9M8/view?usp=sharing"
+}

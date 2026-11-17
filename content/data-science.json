@@ -1,0 +1,43 @@
+{
+  "intro": "Alongside my research in mathematics, I work on applied problems involving statistical learning and networks. I received an MS in Data Science from the University of Delaware in 2023.",
+  "projects": [
+    {
+      "title": "Hitmakers vs. One-Hit Wonders",
+      "award": "First place · Erdős Institute Data Science Project Competition",
+      "date": "Spring 2026",
+      "collaborators": "James McNally, Yundi Kong, and Guillermo Sanmarco",
+      "paragraphs": [
+        "Can an artist’s first top-20 hit help predict whether they will have another? Our team used chart history, genre information, and collaboration networks to study sustained success in the music industry.",
+        "We compared Random Forest, XGBoost, and CatBoost models, with cross-validation and probability calibration."
+      ],
+      "facts": [
+        {
+          "label": "Dataset",
+          "text": "759 artists · 26 features"
+        },
+        {
+          "label": "Inputs",
+          "text": "Chart history, genres, and collaboration-network features"
+        },
+        {
+          "label": "Code",
+          "text": "Python notebooks and the model pipeline"
+        }
+      ],
+      "links": [
+        {
+          "label": "Project code",
+          "url": "https://github.com/Erdos-Projects/spring-2026-hitmakers"
+        },
+        {
+          "label": "Executive summary",
+          "url": "https://github.com/Erdos-Projects/spring-2026-hitmakers/blob/main/Hitmakers%20Executive%20Summary.pdf"
+        }
+      ],
+      "certificate_url": "",
+      "figure": "",
+      "figure_alt": "",
+      "figure_caption": ""
+    }
+  ]
+}

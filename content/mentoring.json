@@ -1,0 +1,43 @@
+{
+  "intro": "I work with undergraduate and high-school students on projects in mathematics and data science. Two groups that began during StemForAll 2026 are continuing their work during the 2026–2027 academic year.",
+  "projects": [
+    {
+      "title": "Fourier Ratio and Graph Recovery",
+      "paragraphs": [
+        "I served as an instructor and project supervisor for the Graph Recovery subgroup within the Signal Recovery project at StemForAll 2026. Our work concerns Fourier ratios, graph labelings, and recovery from partial information.",
+        "The students presented their work at the end of the two-week workshop. We have continued working together during the academic year, and related preprints are linked below."
+      ],
+      "collaborators": "Student collaborators include Ben Song, Carter Kelly, Gus Smith, and Sinan Yang.",
+      "links": [
+        {
+          "label": "Additive energy and Fourier complexity of graphs",
+          "url": "https://arxiv.org/abs/2610.31807"
+        },
+        {
+          "label": "Edge complexity of complete bipartite and complete multipartite graphs",
+          "url": "https://arxiv.org/abs/2610.36276"
+        }
+      ]
+    },
+    {
+      "title": "Sales Modeling",
+      "paragraphs": [
+        "Together with Gabe Hart and Alex Iosevich, I supervised the Sales Modeling group. The project studies sales prediction and inventory optimization using neural-network models and economic indicators.",
+        "The students presented their work at the end of the summer workshop. A smaller group is continuing the project during the 2026–2027 academic year."
+      ],
+      "collaborators": "Continuing participants: John Anastasi, Tran Anh, Arjun Kanani, Bowen Li, Owen Zhao, and Cathy Zhou.",
+      "links": []
+    }
+  ],
+  "student_information": "The continuation program welcomes new participants. See the program page for current project information and the contact for joining.",
+  "program_links": [
+    {
+      "label": "StemForAll 2026 summer program",
+      "url": "https://alexiosevich.com/stemforall2026.html"
+    },
+    {
+      "label": "2026–2027 continuation",
+      "url": "https://alexiosevich.com/stemforall2026-2027continuation.html"
+    }
+  ]
+}
